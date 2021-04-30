@@ -1,5 +1,5 @@
 # XLNet Chinese NER
-
+# 模型来源 https://github.com/Ma-Dan/XLNet-ChineseNER
 基于Bi-LSTM + CRF 的中文机构名、人名、地名识别，MSRA NER语料，BIO标注
 
 CMU XLNet
