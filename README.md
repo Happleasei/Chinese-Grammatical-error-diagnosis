@@ -7,7 +7,7 @@
 采用的几个模型如下：
 HMM\CRF\BILSTM\BERT-CRF\BILSTM-CRF\BERTBILSTMCRF\XLNETBILSTMCRF
 
-以上模型均修改调优自命名实体识别的代码，并非原创，侵权告诉我删除
+以上模型均修改调优自序列标注的代码，并非原创，侵权告诉我删除
 
 前五个模型 环境为python3.7 基于pytorch-gpu 具体怎么合适 根据你的显卡自己配置cuda等等
 最后两个模型 环境为pthon3.6 基于tensorflow-gpu
