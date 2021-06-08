@@ -16,6 +16,8 @@ HMM\CRF\BILSTM\BERT-CRF\BILSTM-CRF\BERTBILSTMCRF\XLNETBILSTMCRF
 
 部分程序需要，加入parameter，内容在主函数首行
 
+中文语法纠错2020最新研究，我做了一个使用的模型总结，详细可看：https://blog.csdn.net/qq_19889389/article/details/111403458
+
 # 有任何问题欢迎私聊
 
 # 此外本人研二在读，如果有nlp实习开发的工作欢迎邀请我笔试面试 感谢
