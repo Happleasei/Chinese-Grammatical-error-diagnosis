@@ -18,6 +18,8 @@ HMM\CRF\BILSTM\BERT-CRF\BILSTM-CRF\BERTBILSTMCRF\XLNETBILSTMCRF
 
 中文语法纠错2020最新研究，我做了一个使用的模型总结，详细可看：https://blog.csdn.net/qq_19889389/article/details/111403458
 
+刚学习深度学习，或自学python，在调试程序或者配置环境中难免会遇到一些小问题
+
 # 有任何问题欢迎私聊
 
 # 此外本人研二在读，如果有nlp实习开发的工作欢迎邀请我笔试面试 感谢
