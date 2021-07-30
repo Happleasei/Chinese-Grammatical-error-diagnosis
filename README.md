@@ -17,6 +17,7 @@ HMM\CRF\BILSTM\BERT-CRF\BILSTM-CRF\BERTBILSTMCRF\XLNETBILSTMCRF
 部分程序需要，加入parameter，内容在主函数首行
 
 中文语法纠错2020最新研究，我做了一个使用的模型总结，详细可看：https://blog.csdn.net/qq_19889389/article/details/111403458
+论文地址（欢迎批评指正）：https://iopscience.iop.org/article/10.1088/1742-6596/1948/1/012027/meta
 
 刚学习深度学习，或自学python，在调试程序或者配置环境中难免会遇到一些小问题
 
