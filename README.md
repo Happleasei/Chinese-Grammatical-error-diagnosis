@@ -22,6 +22,3 @@ HMM\CRF\BILSTM\BERT-CRF\BILSTM-CRF\BERTBILSTMCRF\XLNETBILSTMCRF
 
 刚学习深度学习，或自学python，在调试程序或者配置环境中难免会遇到一些小问题
 
-# 有任何问题欢迎私聊
-
-# 此外本人研二在读，如果有nlp实习开发的工作欢迎邀请我笔试面试 感谢
